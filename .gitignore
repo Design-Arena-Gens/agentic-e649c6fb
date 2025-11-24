@@ -809,6 +809,10 @@ build/
 out/
 dist_electron/
 
+# Remotion
+.remotion/
+*.mp4
+
 # Tauri
 src-tauri/target/
 
